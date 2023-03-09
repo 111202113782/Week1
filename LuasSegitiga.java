@@ -2,7 +2,7 @@ public class LuasSegitiga {
     public static void main(String[] args) {
         //Luas segitiga siku-siku dengan diketahui alas = 6, tinggi = 8.
         int a = 6;
-        int t = 10;
+        int t = 8;
         double LuasSegitiga;
     
         System.out.println("Nama = Calvin Revianto");
